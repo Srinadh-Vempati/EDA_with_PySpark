@@ -1,4 +1,4 @@
-# EDA-_with_PySpark
+# EDA_with_PySpark
 Exploratory Data Analysis using PySpark
 
 ## References:
